@@ -1,5 +1,4 @@
-## 简介
-本仓库随时关闭，心情不好就关
+
 
 **注意：clash内核无法使用这些节点，你要用clashmeta**
 
@@ -17,20 +16,7 @@ chromego如果更新我会及时修改代码保证代码可用，如果更新不
 可以用warp+机器人和提取wg节点替换掉配置文件中的wg信息
 [warp提取wireguard网站](https://replit.com/@misaka-blog/wgcf-profile-generator)
 [warp+机器人](https://t.me/generatewarpplusbot)
-## 订阅链接分享
 
-### 不套warp版本（clashmeta
-```
-https://raw.githubusercontent.com/vveg26/chromego_merge/main/sub/merged_proxies.yaml
-```
-### 套warp版本（clashmeta
-```
-https://raw.githubusercontent.com/vveg26/chromego_merge/main/sub/merged_warp_proxies.yaml
-```
-### shadowrocket订阅链接
-```
-https://raw.githubusercontent.com/vveg26/chromego_merge/main/sub/shadowrocket_base64.txt
-```
 
 ## 致谢
 [ChromeGo](https://github.com/bannedbook/fanqiang/releases/tag/ChromeGo-latest)
